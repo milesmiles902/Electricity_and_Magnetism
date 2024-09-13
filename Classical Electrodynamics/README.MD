@@ -2,6 +2,6 @@
 
 Incomplete:
 
->Chapter 3 - 19c, 21a, 21c
+>Chapter 3 - 19c, 21a/c
 
 Cite: Jackson, J. D. (1999). Classical Electrodynamics. Classical Electrodynamics. 3rd Edition. John Wiley & Sons, Inc. 
