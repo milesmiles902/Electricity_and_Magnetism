@@ -1,7 +1,3 @@
-<ins>The Art of Electronics (Chapter 1)</ins>
-
-Cite: Horowitz, Paul and Winfield Hill. (1980). The Art of Electronics. 
-
 <ins>Classical Electrodynamics (Chapters 1-7)</ins>
 
 Cite: Jackson, J. D. (1999). Classical Electrodynamics. Classical Electrodynamics. 3rd Edition. John Wiley & Sons, Inc. 
@@ -13,3 +9,7 @@ Cite: Voelz, David George. (2011). Computational Fourier Optics : A Matlab Tutor
 <ins>Nonlinear Optics (Chapters 1-13)</ins>
 
 Cite: Robert W. Boyd. (2008). Nonlinear Optics, Third Edition (3rd. ed.). Academic Press, Inc., USA.
+
+<ins>The Art of Electronics (Chapter 1)</ins>
+
+Cite: Horowitz, Paul and Winfield Hill. (1980). The Art of Electronics. 
