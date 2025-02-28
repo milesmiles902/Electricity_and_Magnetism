@@ -1,3 +1,7 @@
+<ins>The Art of Electronics (Chapters 1)</ins>
+
+Cite: Horowitz, Paul and Winfield Hill. (1980). The Art of Electronics. 
+
 <ins>Classical Electrodynamics (Chapters 1-7)</ins>
 
 Cite: Jackson, J. D. (1999). Classical Electrodynamics. Classical Electrodynamics. 3rd Edition. John Wiley & Sons, Inc. 
