@@ -1,4 +1,4 @@
-<ins>The Art of Electronics (Chapters 1)</ins>
+<ins>The Art of Electronics (Chapter 1)</ins>
 
 Cite: Horowitz, Paul and Winfield Hill. (1980). The Art of Electronics. 
 
