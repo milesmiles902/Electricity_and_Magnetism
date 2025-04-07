@@ -1,4 +1,4 @@
-<ins>Classical Electrodynamics (Chapters 1-7)</ins>
+<ins>Classical Electrodynamics (Chapters 1-9)</ins>
 
 Incomplete:
 
