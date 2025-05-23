@@ -10,6 +10,6 @@ Cite: Voelz, David George. (2011). Computational Fourier Optics : A Matlab Tutor
 
 Cite: Robert W. Boyd. (2008). Nonlinear Optics, Third Edition (3rd. ed.). Academic Press, Inc., USA.
 
-<ins>The Art of Electronics (Chapter 1-2)</ins>
+<ins>The Art of Electronics (Chapter 1-3)</ins>
 
 Cite: Horowitz, Paul and Winfield Hill. (1980). The Art of Electronics. 
