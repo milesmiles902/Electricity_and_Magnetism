@@ -1,4 +1,4 @@
-<ins>Classical Electrodynamics (Chapters 1-13)</ins>
+<ins>Classical Electrodynamics (Chapters 1-14)</ins>
 
 Incomplete:
 
@@ -11,5 +11,7 @@ Incomplete:
 >Chapter 11 - 14b
 
 >Chapter 13 - 8b
+
+>Chapter 14 - 26
 
 Cite: Jackson, J. D. (1999). Classical Electrodynamics. Classical Electrodynamics. 3rd Edition. John Wiley & Sons, Inc. 
