@@ -1,4 +1,4 @@
-<ins>Classical Electrodynamics (Chapters 1-13)</ins>
+<ins>Classical Electrodynamics (Chapters 1-14)</ins>
 
 Cite: Jackson, J. D. (1999). Classical Electrodynamics. Classical Electrodynamics. 3rd Edition. John Wiley & Sons, Inc. 
 
