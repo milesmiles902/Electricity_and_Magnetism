@@ -1,4 +1,4 @@
-The Art of Electronics (Chapter 1-3)
+The Art of Electronics (Chapter 1-4)
 
 Incomplete:
 >Fig 2.56 [OPA860 - Operational Amplifier] ($4.90)\
